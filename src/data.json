@@ -1,0 +1,69 @@
+{
+  "pets": [
+    {
+      "name": "Carrot",
+      "human": "Emily",
+      "type": "cat",
+      "likes": ["cats"],
+      "dislikes": ["dogs", "rocks"]
+    },
+    {
+      "name": "Big Floof",
+      "human": "Lyla",
+      "type": "cat",
+      "likes": ["cats", "dogs"],
+      "dislikes": ["rocks"]
+    },
+    {
+      "name": "Sherbert",
+      "human": "Prisha",
+      "type": "cat",
+      "likes": ["dogs", "rocks"],
+      "dislikes": ["cats"]
+    },
+    {
+      "name": "Dwayne",
+      "human": "Stephanie",
+      "type": "rock",
+      "likes": ["dogs", "rocks"],
+      "dislikes": ["cats"]
+    },
+    {
+      "name": "Fudge",
+      "human": "Ayra",
+      "type": "dog",
+      "likes": ["dogs", "rocks"],
+      "dislikes": ["cats"]
+    },
+    {
+      "name": "Big Floof",
+      "human": "Lilliana",
+      "type": "cat",
+      "likes": ["dogs", "cats"],
+      "dislikes": ["rocks"]
+    }
+  ],
+  "humans": {
+    "Emily": {
+      "location": "Toronto"
+    },
+    "Lyla": {
+      "location": "Toronto"
+    },
+    "Prisha": {
+      "location": "Toronto"
+    },
+    "Stephanie": {
+      "location": "Toronto"
+    },
+    "Ameerah": {
+      "location": "Vancouver"
+    },
+    "Ayra": {
+      "location": "Vancouver"
+    },
+    "Lilliana": {
+      "location": "Vancouver"
+    }
+  }
+}
